@@ -29,7 +29,7 @@
 
 - :zap: В свободное время решаю алгоритмические задачи на CodeWars и LeetCode.
 
-- :mailbox:Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IvanovS4515)
+- :mailbox:Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IvanovS4515), Email: sergey.ivanov55155@gmail.com
 
 ---
 
