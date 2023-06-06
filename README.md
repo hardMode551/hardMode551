@@ -7,6 +7,9 @@
     </a>
     <a href="https://www.linkedin.com/in/sergey-ivanov-374143261/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.codewars.com/users/HardMode551">
+      <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
     </a>  
   </div>
   <img src="https://komarev.com/ghpvc/?username=hardMode551&style=for-the-badge&color=blue" alt="ViewsCount"/>
